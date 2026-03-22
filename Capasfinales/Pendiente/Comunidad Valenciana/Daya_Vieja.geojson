@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Daya_Vieja",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "slope": 1, "nombre_clase": "Llano", "color": "#a8ddb5" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3374573.376688892487437, 1737461.564113546162844 ], [ 3374573.376688892487437, 1734619.976711431751028 ], [ 3377750.788056711200625, 1734619.976711431751028 ], [ 3377750.788056711200625, 1737461.564113546162844 ], [ 3374573.376688892487437, 1737461.564113546162844 ] ] ] } }
+]
+}

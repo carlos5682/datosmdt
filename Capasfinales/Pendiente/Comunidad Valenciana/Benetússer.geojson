@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Benetússer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "slope": 1, "nombre_clase": "Llano", "color": "#a8ddb5" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3422932.027750325854868, 1876880.175106364767998 ], [ 3422932.027750325854868, 1875511.046630800468847 ], [ 3424146.160549411084503, 1875511.046630800468847 ], [ 3424146.160549411084503, 1876880.175106364767998 ], [ 3422932.027750325854868, 1876880.175106364767998 ] ] ] } }
+]
+}

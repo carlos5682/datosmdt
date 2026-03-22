@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Llocnou_de_la_Corona",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "slope": 1, "nombre_clase": "Llano", "color": "#a8ddb5" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3424740.310642580501735, 1875846.87059650500305 ], [ 3424740.310642580501735, 1875562.711856293492019 ], [ 3425076.134608285035938, 1875562.711856293492019 ], [ 3425076.134608285035938, 1875846.87059650500305 ], [ 3424740.310642580501735, 1875846.87059650500305 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rafal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "slope": 1, "nombre_clase": "Llano", "color": "#a8ddb5" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3365170.305649169255048, 1738365.705559673253447 ], [ 3365170.305649169255048, 1736428.259603686165065 ], [ 3367159.416830649133772, 1736428.259603686165065 ], [ 3367159.416830649133772, 1738365.705559673253447 ], [ 3365170.305649169255048, 1738365.705559673253447 ] ] ] } }
+]
+}
