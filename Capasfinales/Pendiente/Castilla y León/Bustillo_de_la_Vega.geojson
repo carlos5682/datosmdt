@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bustillo_de_la_Vega",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "slope": 1, "nombre_clase": "Llano", "color": "#a8ddb5" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3109582.435135375708342, 2271421.669583540409803 ], [ 3109582.435135375708342, 2263491.05747036729008 ], [ 3115859.760032773483545, 2263491.05747036729008 ], [ 3115859.760032773483545, 2271421.669583540409803 ], [ 3109582.435135375708342, 2271421.669583540409803 ] ] ] } }
+]
+}
